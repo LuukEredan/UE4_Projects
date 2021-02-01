@@ -1182,3 +1182,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.01-19.54.42:727][282]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
 [2021.02.01-19.54.43:529][353]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
 [2021.02.01-19.54.52:055][141]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2021.02.01-19.55.12:796][343]LogSlate: Window 'Message Log' being destroyed
+[2021.02.01-19.55.12:800][343]LogSlate: Window 'Message Log' being destroyed
+[2021.02.01-19.55.22:186][125]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2021.02.01-19.55.22:461][158]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2021.02.01-19.55.40:972][300]LogSlate: Window 'Pick Skeleton' being destroyed
+[2021.02.01-19.56.08:848][837]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Animation/PlayerAnimation/BS_RifleMoviment.BS_RifleMoviment
+[2021.02.01-19.56.08:890][837]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.01-19.56.09:486][837]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.01-19.58.01:165][745]Cmd: TRANSACTION UNDO
+[2021.02.01-19.58.01:165][745]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2021.02.01-19.58.01:293][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.01-19.58.01:294][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.01-19.59.42:212][703]LogSavePackage: Moving '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Saved/BS_RifleMovimentA92F48D84B60C315505E90BA06F23DD6.tmp' to '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Content/Animation/PlayerAnimation/BS_RifleMoviment.uasset'
+[2021.02.01-19.59.42:225][703]AssetCheck: New page: Asset Save: BS_RifleMoviment
+[2021.02.01-19.59.42:225][703]LogContentValidation: Display: Validating BlendSpace /Game/Animation/PlayerAnimation/BS_RifleMoviment.BS_RifleMoviment
+[2021.02.01-20.02.02:683][501]LogSavePackage: Moving '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Saved/BS_RifleMovimentBFEC6AE643523614DAC0798DF69C86C6.tmp' to '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Content/Animation/PlayerAnimation/BS_RifleMoviment.uasset'
+[2021.02.01-20.02.02:695][501]AssetCheck: New page: Asset Save: BS_RifleMoviment
+[2021.02.01-20.02.02:695][501]LogContentValidation: Display: Validating BlendSpace /Game/Animation/PlayerAnimation/BS_RifleMoviment.BS_RifleMoviment

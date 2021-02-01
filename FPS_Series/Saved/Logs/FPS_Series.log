@@ -789,3 +789,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.01-19.31.59:326][775]LogDirectoryWatcher: A directory notification failed for 'D:/[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2021.02.01-19.31.59:327][775]LogDirectoryWatcher: A directory notification failed for 'D:/[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Content/Developers/Afonso/Collections/' because it could not be accessed. Aborting watch request...
 [2021.02.01-19.31.59:327][775]LogDirectoryWatcher: A directory notification failed for 'D:/[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.02.01-19.35.35:617][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.02.01-19.35.47:166][ 71]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.SKEL_PLayer_C' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.PLayer_C' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.SKEL_PLayer_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.SKEL_PLayer_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.SKEL_PLayer_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.SKEL_PLayer_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.SKEL_PLayer_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.SKEL_PLayer_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:174][ 71]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/PLayer.SKEL_PLayer_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlayerCharacters/ThirdPersonCharacter.PackageMetaData'
+[2021.02.01-19.35.47:331][ 71]LogSavePackage: Moving '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Saved/PLayerA68BCE154E3AB619040D8AB56007D4E2.tmp' to '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Content/Blueprints/PlayerCharacters/PLayer.uasset'
+[2021.02.01-19.35.47:451][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.01-19.35.47:469][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.02.01-19.35.47:472][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.02.01-19.35.47:507][ 71]AssetCheck: New page: Asset Save: PLayer
+[2021.02.01-19.35.47:507][ 71]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerCharacters/PLayer.PLayer
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:938][265]LogMetaData: Removing '/Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlayerCharacters/PLayer.PackageMetaData'
+[2021.02.01-19.35.57:998][265]LogSavePackage: Moving '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Saved/BP_PlayerCharacter9DB6DE0B4BD30C32835FBD8C90C8606A.tmp' to '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Content/Blueprints/PlayerCharacters/BP_PlayerCharacter.uasset'
+[2021.02.01-19.35.58:033][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.02.01-19.35.58:049][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.02.01-19.35.58:053][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.02.01-19.35.58:074][265]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2021.02.01-19.35.58:074][265]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.02.01-19.36.02:635][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.02.01-19.36.03:426][810]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2021.02.01-19.36.04:645][810]LogSlate: Took 0.015149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.01-19.36.04:887][811]LogSlate: Took 0.004903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.01-19.36.32:595][ 17]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.02.01-19.36.32:628][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.02.01-19.36.32:715][ 17]LogSlate: Took 0.050498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.01-19.36.33:017][ 47]LogSavePackage: Moving '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Saved/BP_PlayerCharacterFFF3B60E4A007A53FE2F97AFD5F3BA8F.tmp' to '../../../../../../[MakingGames]/Github_UE4Stuff/UE4_Projects/FPS_Series/Content/Blueprints/PlayerCharacters/BP_PlayerCharacter.uasset'
+[2021.02.01-19.36.33:026][ 47]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2021.02.01-19.36.33:026][ 47]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerCharacters/BP_PlayerCharacter.BP_PlayerCharacter
